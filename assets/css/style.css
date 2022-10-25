@@ -1,9 +1,12 @@
+
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -17,6 +20,9 @@ p {
     font-size: 16px;
 }
 
+
+/* Class Selectors */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -27,7 +33,7 @@ p {
     margin-left: 25px;
 }
 
-/* Header and Navigation CSS */
+/* --Header and Navigation */
 
 .header {
     padding: 20px;
@@ -57,13 +63,13 @@ p {
     list-style-type: none;
 }
 
-.header nav li {
+.header nav a {
     display: inline-block;
     margin-left: 25px;
 }
 
 
-/* Main image  CSS */
+/* --Main image  */
 
 .hero {
     height: 800px;
@@ -76,7 +82,7 @@ p {
 
 
 
-/* Main content CSS */
+/* --Main content  */
 
 .content {
     width: 75%;
@@ -106,7 +112,7 @@ p {
 }
 
 
-/* Aside section CSS */
+/* --Aside section  */
 
 .benefits {
     margin-right: 20px;
@@ -137,7 +143,7 @@ p {
 }
 
 
-/* Footer CSS */
+/* --Footer  */
 
 .footer {
     padding: 30px;
