@@ -63,7 +63,7 @@ p {
     list-style-type: none;
 }
 
-.header nav li {
+.header nav a {
     display: inline-block;
     margin-left: 25px;
 }
