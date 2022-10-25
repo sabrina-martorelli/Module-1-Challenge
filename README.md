@@ -16,9 +16,13 @@ On this webpage the main content presents product cards with detailed descriptio
 In the aside section the site presents the description of three benefits.
 
 
+```md
+    ![Website front page](assets/images/screenshot.png)
+    ```
+
 ## Credits
 
-N/A
+Horiseon Social Solution Services, Inc.
 
 ## License
 
